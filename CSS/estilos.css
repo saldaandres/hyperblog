@@ -5,4 +5,5 @@ body {
 .container {
     background-color: white;
     color: darkslategray;
+    padding: 1em;
 }
