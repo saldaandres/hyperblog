@@ -6,5 +6,18 @@ body {
 .container {
     background-color: white;
     color: darkslategray;
+}
+
+.cabecera {
+    background-color: darksalmon;
+    color: darkslategrey;
+    font-weight: bold;
+}
+
+.tagline {
+    font-size: 0.8em;
+}
+
+.post, .cabecera {
     padding: 1em;
 }
